@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ATCS Kota Bandung", Simpang Dago https://atcs-dishub.bandung.go.id/hls/dago.m3u8
+
+#EXTINF:-1 group-title="ATCS Kota Bandung", Simpang Pasteur https://atcs-dishub.bandung.go.id/hls/pasteur.m3u8
+
+#EXTINF:-1 group-title="ATCS Kota Bandung", Simpang Merdeka https://atcs-dishub.bandung.go.id/hls/merdeka.m3u8
+
+#EXTINF:-1 group-title="CCTV DI Yogyakarta", Malioboro https://cctv.jogjaprov.go.id/live/malioboro.m3u8
+
+#EXTINF:-1 group-title="CCTV DI Yogyakarta", Tugu Jogja https://cctv.jogjaprov.go.id/live/tugujogja.m3u8
+
+#EXTINF:-1 group-title="CCTV DI Yogyakarta", Titik Nol Kilometer https://cctv.jogjaprov.go.id/live/nolkilometer.m3u8
+
+#EXTINF:-1 group-title="Dishub DKI Jakarta", Bundaran HI https://live.pelindung.jakarta.go.id/hls/HI.m3u8
+
+#EXTINF:-1 group-title="Dishub DKI Jakarta", Simpang Sarinah https://live.pelindung.jakarta.go.id/hls/Sarinah.m3u8
+
+#EXTINF:-1 group-title="RTTMC Kemenhub", Pintu Tol Cikampek https://rttmc.dephub.go.id/live/cikampek.m3u8
+
+#EXTINF:-1 group-title="RTTMC Kemenhub", Jalur Nagreg https://rttmc.dephub.go.id/live/nagreg.m3u8
+
+#EXTINF:-1 group-title="Jasa Marga", Tol Dalam Kota https://live.jasamarga.com/cctv/dalamkota_km0.m3u8
+
+#EXTINF:-1 group-title="Jasa Marga", Tol Cipularang KM 90 https://live.jasamarga.com/cctv/cipularang_km90.m3u8
